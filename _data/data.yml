@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Apostolos Kamplionis
     tagline: Front End Developer
-    avatar: myprof.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: myprof.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: apostoloskp@gmail.com
@@ -138,7 +138,7 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 90%
+        level: 80%
 
       - name: Javascript & jQuery
         level: 90%
