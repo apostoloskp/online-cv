@@ -41,19 +41,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hello there
+      Undergraduate student at Ionian University
 education:
     - degree: BSc in Computer Science
       university: Ionian Universrity
       time: 2015 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        The graduate of the Department of Informatics has the scientific and technical expertise to work as an IT
+        professional, either as self-employed, or as an executive in the private or public sector.
+        More specifically he can be employed as:
+          - Software Engineer
+          - Computer Systems Engineer
+          - Network and Telecommunications Engineer / Administrator
+          - Database Administrator
     
 experiences:
     - role: Lead Developer
@@ -104,21 +104,13 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: Backwoods Of Dismay
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A uni-project turned first person horrow game made with Unity."
 
       - title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
