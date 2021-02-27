@@ -57,32 +57,25 @@ education:
           - Database Administrator
     
 experiences:
+    - role: BSc in Computer Science
+      time: 2015 - 2021
+      company: Ionian University, Corfu
+      details: |
+        The graduate of the Department of Informatics has the scientific and technical expertise to work as an IT
+        professional, either as self-employed, or as an executive in the private or public sector.
+        More specifically he can be employed as:
+          - Software Engineer
+          - Computer Systems Engineer
+          - Network and Telecommunications Engineer / Administrator
+          - Database Administrator
     - role: Web Developer
       time: 06/2021 - 08/2021
-      company: Startup Hubs, San Francisco
+      company: Ionian University, Volos
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Internship will allow students to obtain realistic views on employment relationships, the level of earnings and the labor market.
+        It includes activities related to the subjects of the Department. These activities may concern:
+          - Software development that companies can use to improve their operation on an administrative and technical level.
+          - Software operation and the ability to use tools of modern technology.
           
 projects:
     title: Projects
