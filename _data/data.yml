@@ -42,6 +42,7 @@ career-profile:
     title: Career Profile
     summary: |
       Undergraduate student at Ionian University
+      
 education:
     - degree: BSc in Computer Science
       university: Ionian Universrity
@@ -93,6 +94,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
+          
 projects:
     title: Projects
     intro: >
